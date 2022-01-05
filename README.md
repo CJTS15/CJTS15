@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=thetechwolfcave.wordpress.com&message=follow&style=for-the-badge&url=https%3A%2F%2Fthetechwolfcave.wordpress.com/)](https://thetechwolfcave.wordpress.com/)
 [![Website](https://img.shields.io/website?label=thetechwolfcave.com&message=follow&style=for-the-badge&url=https%3A%2F%2Fcjts15.github.io/public/index.html)](https://cjts15.github.io/public/index.html)
 
-## I'm a WordPress Developer, Virtual Assistant and Web Assistant
+### I'm a WordPress Developer, Virtual Assistant and Web Assistant
 
 - 🌱 I’m currently learning everything.
 - 👨‍💻 Working in a Digital Marketing Company as a WordPress Developer and VA.
@@ -11,7 +11,6 @@
 - ⚡ Fun fact: I am tech community volunteer for GDG-CDO and DEVCON-CDO.
 
 ### Connect with me:
-
 [<img align="left" alt="TechWolf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="TechWolf | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="TechWolf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -62,7 +61,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CJTS15)](https://github.com/CJTS15)
 
---
+---
 
 [website]: https://cjts15.github.io/public/index.html
 [blog]: https://thetechwolfcave.wordpress.com/
