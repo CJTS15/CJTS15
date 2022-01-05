@@ -53,6 +53,12 @@
 
 ---
 
+### 📈 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CJTS15)](https://github.com/CJTS15)
+
+--
+
 [website]: https://cjts15.github.io/public/index.html
 [blog]: https://thetechwolfcave.wordpress.com/
 [twitter]: https://twitter.com/cj_wolfy15
