@@ -1,7 +1,7 @@
 ## Hello, I'm CJ - aka TechWolf
 
-[![Website](https://img.shields.io/website?label=thetechwolfcave.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fthetechwolfcave.wordpress.com/)](https://thetechwolfcave.wordpress.com/)
-[![Website](https://img.shields.io/website?label=thetechwolfcave.com&style=for-the-badge&url=https%3A%2F%2Fcjts15.github.io/public/index.html)](https://cjts15.github.io/public/index.html)
+[![Website](https://img.shields.io/website?label=thetechwolfcave.wordpress.com&Follow&style=for-the-badge&url=https%3A%2F%2Fthetechwolfcave.wordpress.com/)](https://thetechwolfcave.wordpress.com/)
+[![Website](https://img.shields.io/website?label=thetechwolfcave.com&Follow&style=for-the-badge&url=https%3A%2F%2Fcjts15.github.io/public/index.html)](https://cjts15.github.io/public/index.html)
 
 ## I'm a WordPress Developer, Virtual Assistant and Web Assistant
 
