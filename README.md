@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything.
 - 👨‍💻 Working in a Digital Marketing Company as a WordPress Developer and VA.
 - 🎮 I'm a content creator on Youtube posting random gameplay walkthrough.
-- ⚡ Fun fact: I am tech community volunteer for GDG-CDO and DEVCON CDO.
+- ⚡ Fun fact: I am tech community volunteer for GDG-CDO and DEVCON-CDO.
 
 ### Connect with me:
 
