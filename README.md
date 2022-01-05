@@ -34,6 +34,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Child of Light PC Gameplay Walkthrough Part 4 - Magna](https://www.youtube.com/watch?v=Q_4RQtRjxZY)
+- [Child of Light PC Gameplay Walkthrough Part 3 - Bolmus Inferno](https://www.youtube.com/watch?v=OcrJEoFlHLM)
+- [Child of Light PC Gameplay Walkthrough Part 2 - The Deep Dark Well](https://www.youtube.com/watch?v=Wus97pIv9A0)
+- [Child of Light PC Gameplay Walkthrough Part 1 - The Girl and the Firefly](https://www.youtube.com/watch?v=MMlwgX5ufmM)
+- [My Mechanical Keyboard With Some Lofi #shorts](https://www.youtube.com/watch?v=_A2gE2qi_i0)
 <!-- YOUTUBE:END -->
 
 
