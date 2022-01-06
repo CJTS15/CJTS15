@@ -1,7 +1,7 @@
 ## Hello, I'm CJ - aka TechWolf
 
-[![Website](https://img.shields.io/website?label=thetechwolfcave.wordpress.com&message=follow&style=for-the-badge&url=https%3A%2F%2Fthetechwolfcave.wordpress.com/)](https://thetechwolfcave.wordpress.com/)
-[![Website](https://img.shields.io/website?label=thetechwolfcave.com&message=follow&style=for-the-badge&url=https%3A%2F%2Fcjts15.github.io/)](https://cjts15.github.io/)
+[![Website](https://img.shields.io/static/v1?label=blog&message=follow&color=blue&style=for-the-badge&logo=wordpress&url=https%3A%2F%2Fthetechwolfcave.wordpress.com/)](https://thetechwolfcave.wordpress.com/)
+[![Website](https://img.shields.io/static/v1?label=website&message=visit&color=blueviolet&style=for-the-badge&logo=github&url=https%3A%2F%2Fcjts15.github.io/)](https://cjts15.github.io/)
 
 ### I'm a WordPress Developer, Virtual Assistant and Web Assistant
 
@@ -11,20 +11,18 @@
 - ⚡ Fun fact: I am tech community volunteer for GDG-CDO and DEVCON-CDO.
 
 ### Connect with me:
-[<img align="left" alt="TechWolf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="TechWolf | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="TechWolf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="TechWolf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+[![Website](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)][blog]
+[![Website](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![Website](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![Website](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="WordPress" width="26px" src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png"/>
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
 <br />
 
