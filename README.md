@@ -44,11 +44,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I have a new hobby, but it’s not that easy.](https://thetechwolfcave.wordpress.com/2022/06/17/i-have-a-new-hobby-but-its-not-that-easy/)
+- [Building My First PC](https://thetechwolfcave.wordpress.com/2022/05/28/finally/)
+- [What’s Inside My Browser](https://thetechwolfcave.wordpress.com/2022/05/02/whats-inside-my-browser/)
+- [Social Media Sizes Cheat Sheet](https://thetechwolfcave.wordpress.com/2022/04/25/social-media-sizes-cheat-sheet/)
 - [Debloat Windows 10](https://thetechwolfcave.wordpress.com/2022/01/02/debloat-windows-10/)
-- [Create Your Own Website](https://thetechwolfcave.wordpress.com/2021/09/10/create-your-own-website-easily/)
-- [What If We Can Go Back In Time](https://thetechwolfcave.wordpress.com/2021/09/10/what-if-we-can-go-back-in-time/)
-- [Stay Afloat During Hard Times](https://thetechwolfcave.wordpress.com/2021/09/04/stay-afloat-during-hard-times/)
-- [It’s Light. And Has RGB!](https://thetechwolfcave.wordpress.com/2021/07/12/its-light-and-has-rgb/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thetechwolfcave.wordpress.com/)
