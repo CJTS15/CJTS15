@@ -44,7 +44,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I have a new hobby, but it’s not that easy.](https://thetechwolfcave.wordpress.com/2022/06/17/i-have-a-new-hobby-but-its-not-that-easy/)
+- [I Have A New Hobby](https://thetechwolfcave.wordpress.com/2022/06/17/i-have-a-new-hobby-but-its-not-that-easy/)
 - [Building My First PC](https://thetechwolfcave.wordpress.com/2022/05/28/finally/)
 - [What’s Inside My Browser](https://thetechwolfcave.wordpress.com/2022/05/02/whats-inside-my-browser/)
 - [Social Media Sizes Cheat Sheet](https://thetechwolfcave.wordpress.com/2022/04/25/social-media-sizes-cheat-sheet/)
