@@ -39,6 +39,7 @@
 - [Chillin&#39; With My Keyboard #shorts](https://www.youtube.com/watch?v=_A2gE2qi_i0)
 <!-- YOUTUBE:END -->
 
+➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
 
 ---
 
