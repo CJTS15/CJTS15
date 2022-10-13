@@ -1,4 +1,4 @@
-## Hello, I'm CJ - aka TechWolf
+## Hello, I'm CJ | Your Friendly Neighborhood Tech Support
 
 [![Website](https://img.shields.io/static/v1?label=blog&message=follow&color=blue&style=for-the-badge&logo=wordpress&url=https%3A%2F%2Fthetechwolfcave.wordpress.com/)](https://thetechwolfcave.wordpress.com/)
 [![Website](https://img.shields.io/static/v1?label=website&message=visit&color=blueviolet&style=for-the-badge&logo=github&url=https%3A%2F%2Fcjts15.github.io/)](https://cjts15.github.io/)
@@ -6,9 +6,10 @@
 ### I'm a WordPress Developer, Virtual Assistant and Web Assistant
 
 - 🌱 I’m currently learning everything.
-- 👨‍💻 Working in a Digital Marketing Company as a WordPress Developer and VA.
+- 👨‍💻 Working in a Digital Marketing Company as a WordPress Developer and IT Support.
 - 🎮 I'm a content creator on Youtube posting random gameplay walkthrough.
-- ⚡ Fun fact: I am tech community volunteer for GDG-CDO and DEVCON-CDO.
+- 📝 I write everything under the cloud for my WordPress blog.
+- ⚡ I'm one of the awesome volunteer of GDG-CDO and DEVCON-CDO in Mindanao.
 
 ### Connect with me:
 [![Website](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)][blog]
