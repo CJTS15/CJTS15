@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lost In Bali – Biggest Plot Twist of 2022](https://thetechwolfcave.wordpress.com/2022/10/15/lost-in-bali/)
 - [I Have A New Hobby](https://thetechwolfcave.wordpress.com/2022/06/17/i-have-a-new-hobby-but-its-not-that-easy/)
 - [Building My First PC](https://thetechwolfcave.wordpress.com/2022/05/28/finally/)
 - [What’s Inside My Browser](https://thetechwolfcave.wordpress.com/2022/05/02/whats-inside-my-browser/)
 - [Social Media Sizes Cheat Sheet](https://thetechwolfcave.wordpress.com/2022/04/25/social-media-sizes-cheat-sheet/)
-- [Debloat Windows 10](https://thetechwolfcave.wordpress.com/2022/01/02/debloat-windows-10/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thetechwolfcave.wordpress.com/)
