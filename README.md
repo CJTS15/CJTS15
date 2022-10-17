@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How a giveaway mechanical keyboard sounds ⌨️. #shorts](https://www.youtube.com/watch?v=yxrJc1B8-58)
 - [Child of Light PC Gameplay Walkthrough Part 6 - Dark Queen&#39;s Power](https://www.youtube.com/watch?v=HExo57k07jc)
 - [Child of Light PC Gameplay Walkthrough Part 5 - Going Home?](https://www.youtube.com/watch?v=qj60F9hCIvk)
 - [Child of Light PC Gameplay Walkthrough Part 4 - Magna](https://www.youtube.com/watch?v=Q_4RQtRjxZY)
 - [Child of Light PC Gameplay Walkthrough Part 3 - Bolmus Inferno](https://www.youtube.com/watch?v=OcrJEoFlHLM)
-- [Child of Light PC Gameplay Walkthrough Part 2 - The Deep Dark Well](https://www.youtube.com/watch?v=Wus97pIv9A0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
