@@ -34,7 +34,7 @@
 <!-- YOUTUBE:START -->
 - [My Budget PC | Upgrading My Setup #shorts](https://www.youtube.com/watch?v=KqvvyYuDTFQ)
 - [GTA V has Aimlabs | GTA V PC Gameplay](https://www.youtube.com/watch?v=tCRm6Qao5cw)
-- [How a giveaway mechanical keyboard sounds ⌨️. #shorts](https://www.youtube.com/watch?v=yxrJc1B8-58)
+- [Red Switch Sound Test ⌨️. #shorts](https://www.youtube.com/watch?v=yxrJc1B8-58)
 - [Child of Light PC Gameplay Walkthrough Part 6 - Dark Queen&#39;s Power](https://www.youtube.com/watch?v=HExo57k07jc)
 - [Child of Light PC Gameplay Walkthrough Part 5 - Going Home?](https://www.youtube.com/watch?v=qj60F9hCIvk)
 <!-- YOUTUBE:END -->
