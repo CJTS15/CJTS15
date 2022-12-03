@@ -32,8 +32,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Building My Budget Gaming PC 2022](https://www.youtube.com/watch?v=h-PvIv5wnzU)
-- [My Budget Gaming PC 2022 #shorts](https://www.youtube.com/watch?v=KqvvyYuDTFQ)
+- [Project Moochii | Building My Dream Gaming PC 2022](https://www.youtube.com/watch?v=h-PvIv5wnzU)
+- [My Dream Gaming PC 2022 #shorts](https://www.youtube.com/watch?v=KqvvyYuDTFQ)
 - [GTA V has Aimlabs | GTA V PC Gameplay](https://www.youtube.com/watch?v=tCRm6Qao5cw)
 - [Red Switch Sound Test ⌨️. #shorts](https://www.youtube.com/watch?v=yxrJc1B8-58)
 - [Child of Light PC Gameplay Walkthrough Part 6 - Dark Queen&#39;s Power](https://www.youtube.com/watch?v=HExo57k07jc)
