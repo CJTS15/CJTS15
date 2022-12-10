@@ -32,7 +32,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Project Moochii | Building My Dream Gaming PC 2022](https://www.youtube.com/watch?v=h-PvIv5wnzU)
+- [Building My Dream Gaming PC 2022 | Project Moochii](https://www.youtube.com/watch?v=h-PvIv5wnzU)
 - [My Dream Gaming PC 2022 #shorts](https://www.youtube.com/watch?v=KqvvyYuDTFQ)
 - [GTA V has Aimlabs | GTA V PC Gameplay](https://www.youtube.com/watch?v=tCRm6Qao5cw)
 - [I tried to sound test my keyboard#shorts](https://www.youtube.com/watch?v=yxrJc1B8-58)
