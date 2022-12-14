@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [It&#39;s almost Christmas! #shorts](https://www.youtube.com/watch?v=qMpkWu2Io-I)
 - [Building My Dream Gaming PC 2022 | Project Moochii](https://www.youtube.com/watch?v=h-PvIv5wnzU)
 - [My Dream Gaming PC 2022 #shorts](https://www.youtube.com/watch?v=KqvvyYuDTFQ)
 - [GTA V has Aimlabs | GTA V PC Gameplay](https://www.youtube.com/watch?v=tCRm6Qao5cw)
 - [I tried to sound test my keyboard#shorts](https://www.youtube.com/watch?v=yxrJc1B8-58)
-- [Child of Light PC Gameplay Walkthrough Part 6 - Dark Queen&#39;s Power](https://www.youtube.com/watch?v=HExo57k07jc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
