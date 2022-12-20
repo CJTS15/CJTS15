@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Unboxing: Akko Coiled Keyboard Cable | Tokyo Pink](https://www.youtube.com/watch?v=9GS4c12CUm8)
 - [Desk Setup Upgrade! #shorts](https://www.youtube.com/watch?v=GIf9UGSIqzI)
 - [Desk Setup for Christmas! #shorts](https://www.youtube.com/watch?v=qMpkWu2Io-I)
 - [Building My Dream Gaming PC 2022 | Project Moochii](https://www.youtube.com/watch?v=h-PvIv5wnzU)
 - [My Dream Gaming PC 2022 #shorts](https://www.youtube.com/watch?v=KqvvyYuDTFQ)
-- [GTA V has Aimlabs | GTA V PC Gameplay](https://www.youtube.com/watch?v=tCRm6Qao5cw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
