@@ -34,7 +34,7 @@
 <!-- YOUTUBE:START -->
 - [Unboxing: Akko Coiled Keyboard Cable | Tokyo Pink](https://www.youtube.com/watch?v=9GS4c12CUm8)
 - [Desk Setup Upgrade! #shorts](https://www.youtube.com/watch?v=GIf9UGSIqzI)
-- [Desk Setup for Christmas! #shorts](https://www.youtube.com/watch?v=qMpkWu2Io-I)
+- [Building My Desk Setup for Christmas! #shorts](https://www.youtube.com/watch?v=qMpkWu2Io-I)
 - [Building My Dream Gaming PC 2022 | Project Moochii](https://www.youtube.com/watch?v=h-PvIv5wnzU)
 - [My Dream Gaming PC 2022 #shorts](https://www.youtube.com/watch?v=KqvvyYuDTFQ)
 <!-- YOUTUBE:END -->
