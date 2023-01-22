@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Trying Out Linux | Ubuntu](https://thetechwolfcave.wordpress.com/2023/01/22/trying-out-linux-ubuntu/)
+- [Modded Thocky Keyboard | Rakk Lam-ang Pro](https://thetechwolfcave.wordpress.com/2023/01/22/modded-thocky-keyboard-rakk-lam-ang-pro/)
+- [Trying Out Linux | Ubuntu 22.10](https://thetechwolfcave.wordpress.com/2023/01/22/trying-out-linux-ubuntu/)
 - [Lost In Bali – Biggest Plot Twist of 2022](https://thetechwolfcave.wordpress.com/2022/10/15/lost-in-bali/)
-- [I Have A New Hobby](https://thetechwolfcave.wordpress.com/2022/06/17/i-have-a-new-hobby-but-its-not-that-easy/)
-- [Building My First PC](https://thetechwolfcave.wordpress.com/2022/05/28/finally/)
-- [What’s Inside My Browser](https://thetechwolfcave.wordpress.com/2022/05/02/whats-inside-my-browser/)
+- [PC Builder In A Budget | PCPartPicker Edition](https://thetechwolfcave.wordpress.com/2022/06/17/i-have-a-new-hobby-but-its-not-that-easy/)
+- [Building My Dream PC | RTX On](https://thetechwolfcave.wordpress.com/2022/05/28/finally/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thetechwolfcave.wordpress.com/)
