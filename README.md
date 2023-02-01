@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rise of the Tomb Raider PC Gameplay Walkthrough Part 3 - Soviet Installation](https://www.youtube.com/watch?v=zXOtIfUhtsM)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 2 - Bear](https://www.youtube.com/watch?v=ny04XblQOCQ)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 1 - The Prophet&#39;s Tomb](https://www.youtube.com/watch?v=ofMjvbszUWs)
 - [Unboxing: Akko Coiled Keyboard Cable | Tokyo Pink](https://www.youtube.com/watch?v=9GS4c12CUm8)
 - [Desk Setup Upgrade! #shorts](https://www.youtube.com/watch?v=GIf9UGSIqzI)
-- [Building My Desk Setup for Christmas! #shorts](https://www.youtube.com/watch?v=qMpkWu2Io-I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
