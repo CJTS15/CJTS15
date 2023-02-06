@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rise of the Tomb Raider PC Gameplay Walkthrough Part 5.1 - Babayaga](https://www.youtube.com/watch?v=nDVVfPa5Jps)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 4 - Ana](https://www.youtube.com/watch?v=PpbD5494LO0)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 3 - Soviet Installation](https://www.youtube.com/watch?v=zXOtIfUhtsM)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 2 - Bear](https://www.youtube.com/watch?v=ny04XblQOCQ)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 1 - The Prophet&#39;s Tomb](https://www.youtube.com/watch?v=ofMjvbszUWs)
-- [Unboxing: Akko Coiled Keyboard Cable | Tokyo Pink](https://www.youtube.com/watch?v=9GS4c12CUm8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
