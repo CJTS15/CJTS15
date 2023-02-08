@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rise of the Tomb Raider PC Gameplay Walkthrough Part 6 - Copper Mills](https://www.youtube.com/watch?v=tsZV5YcLTdk)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 5.2 - Babayaga](https://www.youtube.com/watch?v=6fQD2vUm5co)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 5.1 - Babayaga](https://www.youtube.com/watch?v=nDVVfPa5Jps)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 4 - Ana](https://www.youtube.com/watch?v=PpbD5494LO0)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 3 - Soviet Installation](https://www.youtube.com/watch?v=zXOtIfUhtsM)
-- [Rise of the Tomb Raider PC Gameplay Walkthrough Part 2 - Bear](https://www.youtube.com/watch?v=ny04XblQOCQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
