@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Rise of the Tomb Raider PC Gameplay Walkthrough Part 11  - Deathless Prophet](https://www.youtube.com/watch?v=l0No7radwAI)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 10 - Jonah](https://www.youtube.com/watch?v=mZ2uNppp3PA)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 9 - Atlas](https://www.youtube.com/watch?v=fzc_A6xySKM)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 8 - Cathedral](https://www.youtube.com/watch?v=YHS4-9-UgRc)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 7 - Geothermal Valley](https://www.youtube.com/watch?v=asK42CJh30s)
-- [Rise of the Tomb Raider PC Gameplay Walkthrough Part 6 - Copper Mills](https://www.youtube.com/watch?v=tsZV5YcLTdk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
