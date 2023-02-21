@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Unboxing: Fantech AC701 Coiled Cable | Midnight Black](https://www.youtube.com/watch?v=KTFZo0YKzAk)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 13 - End](https://www.youtube.com/watch?v=Ys8j_YJPFGw)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 12 - The Lost City](https://www.youtube.com/watch?v=MySMSBPB0DQ)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 11  - Deathless Prophet](https://www.youtube.com/watch?v=l0No7radwAI)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 10 - Jonah](https://www.youtube.com/watch?v=mZ2uNppp3PA)
-- [Rise of the Tomb Raider PC Gameplay Walkthrough Part 9 - Atlas](https://www.youtube.com/watch?v=fzc_A6xySKM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
