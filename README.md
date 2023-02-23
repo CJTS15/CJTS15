@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I Fix My Own Tech Problems, Sort Of](https://thetechwolfcave.wordpress.com/2023/02/23/i-fix-my-own-tech-problems-sort-of/)
 - [My Desk Setup Journey – Trip Down to Memory Lane](https://thetechwolfcave.wordpress.com/2023/02/18/my-desk-setup-journey-trip-down-to-memory-lane/)
 - [Building My Dream PC | RTX On](https://thetechwolfcave.wordpress.com/2023/02/08/finally/)
 - [A Day In A Life | A Remote Worker](https://thetechwolfcave.wordpress.com/2023/02/08/a-day-in-a-life-a-remote-worker/)
 - [Chatting with ChatGPT: Your Personal AI Assistant for Smarter Conversations](https://thetechwolfcave.wordpress.com/2023/02/06/chatting-with-chatgpt-your-personal-ai-assistant-for-smarter-conversations/)
-- [Modded Thocky Keyboard | Rakk Lam-ang Pro](https://thetechwolfcave.wordpress.com/2023/01/22/modded-thocky-keyboard-rakk-lam-ang-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thetechwolfcave.wordpress.com/)
