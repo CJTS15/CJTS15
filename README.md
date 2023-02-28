@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hellblade: Senua&#39;s Sacrifice PC Gameplay Walkthrough Part 2 - Surtr](https://www.youtube.com/watch?v=Ua2yrttnEmg)
 - [Hellblade: Senua&#39;s Sacrifice PC Gameplay Walkthrough Part 1 - Intro](https://www.youtube.com/watch?v=ykotC_-hutQ)
 - [Unboxing: Razer Orochi V2 | Black](https://www.youtube.com/watch?v=pQZcDwNxI-w)
 - [Unboxing: Fantech AC701 Coiled Cable | Midnight Black](https://www.youtube.com/watch?v=KTFZo0YKzAk)
 - [Rise of the Tomb Raider PC Gameplay Walkthrough Part 13 - End](https://www.youtube.com/watch?v=Ys8j_YJPFGw)
-- [Rise of the Tomb Raider PC Gameplay Walkthrough Part 12 - The Lost City](https://www.youtube.com/watch?v=MySMSBPB0DQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
