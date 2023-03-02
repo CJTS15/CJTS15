@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hellblade: Senua&#39;s Sacrifice PC Gameplay Walkthrough Part 4 - Valravn](https://www.youtube.com/watch?v=XyrLG7zh-tM)
 - [Hellblade: Senua&#39;s Sacrifice PC Gameplay Walkthrough Part 3 - Raven](https://www.youtube.com/watch?v=B47VS4T9z3A)
 - [Hellblade: Senua&#39;s Sacrifice PC Gameplay Walkthrough Part 2 - Surtr](https://www.youtube.com/watch?v=Ua2yrttnEmg)
 - [Hellblade: Senua&#39;s Sacrifice PC Gameplay Walkthrough Part 1 - Intro](https://www.youtube.com/watch?v=ykotC_-hutQ)
 - [Unboxing: Razer Orochi V2 | Black](https://www.youtube.com/watch?v=pQZcDwNxI-w)
-- [Unboxing: Fantech AC701 Coiled Cable | Midnight Black](https://www.youtube.com/watch?v=KTFZo0YKzAk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
