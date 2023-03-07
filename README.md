@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Hellblade: Senua&#39;s Sacrifice PC Gameplay Walkthrough Part 7 - Tamed Beast](https://www.youtube.com/watch?v=TTToBE57mok)
 - [Hellblade: Senua&#39;s Sacrifice PC Gameplay Walkthrough Part 6 - Gram Release](https://www.youtube.com/watch?v=WvSp-pAVSZw)
 - [Hellblade: Senua&#39;s Sacrifice PC Gameplay Walkthrough Part 5 - Hela](https://www.youtube.com/watch?v=XpYCaDBf71c)
 - [Hellblade: Senua&#39;s Sacrifice PC Gameplay Walkthrough Part 4 - Valravn](https://www.youtube.com/watch?v=XyrLG7zh-tM)
 - [Hellblade: Senua&#39;s Sacrifice PC Gameplay Walkthrough Part 3 - Raven](https://www.youtube.com/watch?v=B47VS4T9z3A)
-- [Hellblade: Senua&#39;s Sacrifice PC Gameplay Walkthrough Part 2 - Surtr](https://www.youtube.com/watch?v=Ua2yrttnEmg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
