@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Control PC Gameplay Walkthrough Part 6 - Black Rock Quarry](https://www.youtube.com/watch?v=jzQjh2If-vQ)
 - [Control PC Gameplay Walkthrough Part 5 - HRA Machine](https://www.youtube.com/watch?v=p5798VBVXcM)
 - [Control PC Gameplay Walkthrough Part 4 - Marshall](https://www.youtube.com/watch?v=MEUC1MrdkRs)
 - [Control PC Gameplay Walkthrough Part 3 - NSC Power Plant](https://www.youtube.com/watch?v=fjXn7SddSZY)
 - [Control PC Gameplay Walkthrough Part 2 - Maintenance](https://www.youtube.com/watch?v=O338kIK3txY)
-- [Control PC Gameplay Walkthrough Part 1 - Central Executive](https://www.youtube.com/watch?v=UYPAY6TAhSk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
