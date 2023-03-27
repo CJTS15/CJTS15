@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Control PC Gameplay Walkthrough Part 10 - Director Jesse](https://www.youtube.com/watch?v=rZprLWJE57s)
 - [Control PC Gameplay Walkthrough Part 9 - Astray Maze](https://www.youtube.com/watch?v=a6h4jKk5Edk)
 - [Control PC Gameplay Walkthrough Part 8 - Dylan](https://www.youtube.com/watch?v=BGWPYfpMEnI)
 - [Control PC Gameplay Walkthrough Part 7 - Benicof TV](https://www.youtube.com/watch?v=3vXDtIWphFo)
 - [Control PC Gameplay Walkthrough Part 6 - Black Rock Quarry](https://www.youtube.com/watch?v=jzQjh2If-vQ)
-- [Control PC Gameplay Walkthrough Part 5 - HRA Machine](https://www.youtube.com/watch?v=p5798VBVXcM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
