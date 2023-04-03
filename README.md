@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Unboxing: ASUS TUF VG1A Series | ASUS TUF VG249Q1A Monitor](https://www.youtube.com/watch?v=AjOauJLPpy4)
 - [Control PC Gameplay Walkthrough Bonus 1 - Ahti Requests](https://www.youtube.com/watch?v=7X6GxioOkUM)
 - [Control PC Gameplay Walkthrough Part 10 - Director Jesse](https://www.youtube.com/watch?v=rZprLWJE57s)
 - [Control PC Gameplay Walkthrough Part 9 - Astray Maze](https://www.youtube.com/watch?v=a6h4jKk5Edk)
 - [Control PC Gameplay Walkthrough Part 8 - Dylan](https://www.youtube.com/watch?v=BGWPYfpMEnI)
-- [Control PC Gameplay Walkthrough Part 7 - Benicof TV](https://www.youtube.com/watch?v=3vXDtIWphFo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
