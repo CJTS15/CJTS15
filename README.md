@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Figment &lpar;2017&rpar; PC Gameplay Walkthrough Part 4 - Spider](https://www.youtube.com/watch?v=-1K7iv27ZpY)
 - [Figment &lpar;2017&rpar; PC Gameplay Walkthrough Part 3 - Clockwork](https://www.youtube.com/watch?v=5BttmUJQFvs)
 - [Figment &lpar;2017&rpar; PC Gameplay Walkthrough Part 2 - Plague](https://www.youtube.com/watch?v=xOnGGqLCTOs)
 - [Figment &lpar;2017&rpar; PC Gameplay Walkthrough Part 1 - Nightmare](https://www.youtube.com/watch?v=mfqrfmN0kmo)
 - [Unboxing: ASUS TUF VG1A Series | ASUS TUF VG249Q1A Monitor](https://www.youtube.com/watch?v=AjOauJLPpy4)
-- [Control PC Gameplay Walkthrough Bonus 1 - Ahti Requests](https://www.youtube.com/watch?v=7X6GxioOkUM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
