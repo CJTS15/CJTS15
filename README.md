@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Little Nightmares II Gameplay Walkthrough Part 3](https://www.youtube.com/watch?v=n2v2phVoZW0)
 - [Little Nightmares II Gameplay Walkthrough Part 2](https://www.youtube.com/watch?v=nyacJ_AjAV4)
 - [Little Nightmares II Gameplay Walkthrough Part 1](https://www.youtube.com/watch?v=9eIQ5CYHIQQ)
 - [Figment &lpar;2017&rpar; PC Gameplay Walkthrough Part 5 - Mind Gate Final](https://www.youtube.com/watch?v=yczWOWNdiJE)
 - [Figment &lpar;2017&rpar; PC Gameplay Walkthrough Part 4 - Spider](https://www.youtube.com/watch?v=-1K7iv27ZpY)
-- [Figment &lpar;2017&rpar; PC Gameplay Walkthrough Part 3 - Clockwork](https://www.youtube.com/watch?v=5BttmUJQFvs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
