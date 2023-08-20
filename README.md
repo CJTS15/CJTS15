@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Little Nightmares II Gameplay Walkthrough Part 6](https://www.youtube.com/watch?v=b62k35ueVTI)
 - [Little Nightmares II Gameplay Walkthrough Part 5](https://www.youtube.com/watch?v=cKjXNSh5thE)
 - [Little Nightmares II Gameplay Walkthrough Part 4](https://www.youtube.com/watch?v=4IuLctbJyhQ)
 - [Little Nightmares II Gameplay Walkthrough Part 3](https://www.youtube.com/watch?v=n2v2phVoZW0)
 - [Little Nightmares II Gameplay Walkthrough Part 2](https://www.youtube.com/watch?v=nyacJ_AjAV4)
-- [Little Nightmares II Gameplay Walkthrough Part 1](https://www.youtube.com/watch?v=9eIQ5CYHIQQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
