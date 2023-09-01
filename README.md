@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Staying Safe Online](https://thetechwolfcave.wordpress.com/2023/09/01/staying-safe-online/)
 - [The Future Of Work](https://thetechwolfcave.wordpress.com/2023/09/01/the-future-of-work/)
 - [Debloat Windows 11](https://thetechwolfcave.wordpress.com/2023/02/28/debloat-windows-11/)
 - [I Fix My Own Tech Problems, Sort Of](https://thetechwolfcave.wordpress.com/2023/02/23/i-fix-my-own-tech-problems-sort-of/)
 - [My Desk Setup Journey – Trip Down to Memory Lane](https://thetechwolfcave.wordpress.com/2023/02/18/my-desk-setup-journey-trip-down-to-memory-lane/)
-- [Building My Dream PC | RTX On](https://thetechwolfcave.wordpress.com/2023/02/08/finally/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thetechwolfcave.wordpress.com/)
