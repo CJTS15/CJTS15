@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Razer Orochi V2](https://www.youtube.com/watch?v=3gt8iP6Sq40)
 - [Unboxing: Razer Orochi V2 | Black #shorts](https://www.youtube.com/watch?v=HebmQkBgMXI)
 - [Ori and the Will of the Wisps Gameplay Walkthrough Part 5](https://www.youtube.com/watch?v=m7U1BgisTKA)
 - [Ori and the Will of the Wisps Gameplay Walkthrough Part 4](https://www.youtube.com/watch?v=RRdi9zjmeXo)
 - [Ori and the Will of the Wisps Gameplay Walkthrough Part 3](https://www.youtube.com/watch?v=8G19JADhX9M)
+- [Ori and the Will of the Wisps Gameplay Walkthrough Part 2](https://www.youtube.com/watch?v=yhAmbYhDRL4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
