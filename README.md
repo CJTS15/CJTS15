@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🎮 Senua&#39;s Sacrifice Gameplay 🎮](https://www.youtube.com/watch?v=oYyzVUS4Gw8)
 - [🔥 EndGame Gear OP1WE White 🔥](https://www.youtube.com/watch?v=eMREK0DnAaw)
 - [🔥 Cozy &amp; Chill Setup 🔥](https://www.youtube.com/watch?v=0lrGd3jxpFQ)
 - [Unboxing: Zuoya GMK67 Mechanical Keyboard | White](https://www.youtube.com/watch?v=3akBeCG12Sw)
 - [Unboxing: EndGame Gear OP1WE | White](https://www.youtube.com/watch?v=fGXohs6JaS8)
-- [Unboxing: Razer Orochi V2 | Black #shorts](https://www.youtube.com/watch?v=HebmQkBgMXI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
