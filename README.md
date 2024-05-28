@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🎮 Road to Vostok Gameplay 🎮](https://www.youtube.com/watch?v=Hli-3dq1lUY)
 - [🔥 Razer Orochi V2 &quot;Egg&quot; Mouse Unboxing 🔥](https://www.youtube.com/watch?v=7Q-LbTRZdhg)
 - [🔥 Zuoya GMK67 Unboxing 🔥](https://www.youtube.com/watch?v=tQ2COsqN_3w)
 - [🎮 Senua&#39;s Sacrifice Gameplay 🎮](https://www.youtube.com/watch?v=oYyzVUS4Gw8)
 - [🔥 EndGame Gear OP1WE White 🔥](https://www.youtube.com/watch?v=eMREK0DnAaw)
-- [🔥 Cozy &amp; Chill Setup 🔥](https://www.youtube.com/watch?v=0lrGd3jxpFQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
