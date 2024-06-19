@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Unboxing: 7Hz Salnotes Zero | Black](https://www.youtube.com/watch?v=K197liYt-R4)
 - [🔥 Deepcool AK400 + FK120 = AK400 Plus 🔥](https://www.youtube.com/watch?v=8N2rHOxQnP0)
 - [🎮 Road to Vostok Gameplay 🎮](https://www.youtube.com/watch?v=Hli-3dq1lUY)
 - [🔥 Razer Orochi V2 Black Unboxing 🔥](https://www.youtube.com/watch?v=7Q-LbTRZdhg)
 - [🔥 Zuoya GMK67 White Unboxing 🔥](https://www.youtube.com/watch?v=tQ2COsqN_3w)
-- [🎮 Senua&#39;s Sacrifice Gameplay 🎮](https://www.youtube.com/watch?v=oYyzVUS4Gw8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
