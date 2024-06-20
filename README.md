@@ -32,7 +32,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [June 20, 2024](https://www.youtube.com/watch?v=jiriuk7i7Gs)
+- [🔥 7Hz Salnotes Zero Unboxing 🔥](https://www.youtube.com/watch?v=jiriuk7i7Gs)
 - [Unboxing: 7Hz Salnotes Zero | Black](https://www.youtube.com/watch?v=K197liYt-R4)
 - [🔥 Deepcool AK400 + FK120 = AK400 Plus 🔥](https://www.youtube.com/watch?v=8N2rHOxQnP0)
 - [🎮 Road to Vostok Gameplay 🎮](https://www.youtube.com/watch?v=Hli-3dq1lUY)
