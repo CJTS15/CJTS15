@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [🎮 Rise of the Tomb Raider Gameplay 🎮](https://www.youtube.com/watch?v=4GS7ehVslPE)
 - [🔥 7Hz Salnotes Zero Unboxing 🔥](https://www.youtube.com/watch?v=jiriuk7i7Gs)
 - [Unboxing: 7Hz Salnotes Zero | Black](https://www.youtube.com/watch?v=K197liYt-R4)
 - [🔥 Deepcool AK400 + FK120 = AK400 Plus 🔥](https://www.youtube.com/watch?v=8N2rHOxQnP0)
 - [🎮 Road to Vostok Gameplay 🎮](https://www.youtube.com/watch?v=Hli-3dq1lUY)
-- [🔥 Razer Orochi V2 Black Unboxing 🔥](https://www.youtube.com/watch?v=7Q-LbTRZdhg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
