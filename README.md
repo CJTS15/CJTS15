@@ -32,7 +32,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Desk Setup 2024 - Work &amp; Gaming PC Setup](https://www.youtube.com/watch?v=ab6Ongm7xS0)
+- [Desk Setup Tour 2024 - Work &amp; Gaming PC Setup](https://www.youtube.com/watch?v=ab6Ongm7xS0)
 - [🎮 Control Gameplay 🎮](https://www.youtube.com/watch?v=1TvU0G8HRv8)
 - [🎮 Rise of the Tomb Raider Gameplay 🎮](https://www.youtube.com/watch?v=4GS7ehVslPE)
 - [🔥 7Hz Salnotes Zero Unboxing 🔥](https://www.youtube.com/watch?v=jiriuk7i7Gs)
