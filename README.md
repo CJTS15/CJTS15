@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Unboxing: Soundcore A20i | Soundcore by Anker | Black](https://www.youtube.com/watch?v=CrnukZ8qAmI)
 - [Desk Setup Tour 2024 - Work &amp; Gaming PC Setup](https://www.youtube.com/watch?v=ab6Ongm7xS0)
 - [🎮 Control Gameplay 🎮](https://www.youtube.com/watch?v=1TvU0G8HRv8)
 - [🎮 Rise of the Tomb Raider Gameplay 🎮](https://www.youtube.com/watch?v=4GS7ehVslPE)
 - [🔥 7Hz Salnotes Zero Unboxing 🔥](https://www.youtube.com/watch?v=jiriuk7i7Gs)
-- [Unboxing: 7Hz Salnotes Zero | Black](https://www.youtube.com/watch?v=K197liYt-R4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
