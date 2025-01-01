@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Unboxing: 8BitDo Ultimate 3-mode Controller for Xbox | 8BitDo| Black](https://www.youtube.com/watch?v=PJhgwu_6Ep4)
 - [Unboxing: Transcend StoreJet 25H4 | Transcend | Purple](https://www.youtube.com/watch?v=9BoVzDeLNII)
 - [🔥 Desk Setup Tour 2024 🔥](https://www.youtube.com/watch?v=eHbmuBw7dLA)
 - [Unboxing: Edifier MR4 Studio Speaker | Edifier | Black](https://www.youtube.com/watch?v=uOzW2COcUkc)
 - [Unboxing: Huawei Band 9 | Black](https://www.youtube.com/watch?v=vOUnsbhSgL4)
-- [🔥 Soundcore A20i Unboxing 🔥](https://www.youtube.com/watch?v=c_d2FIHA7AU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
