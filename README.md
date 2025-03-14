@@ -32,11 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Unboxing: VXE R1 Pro Max Mouse | VXE R1 Series | Black](https://www.youtube.com/watch?v=a_8F5PzsBNs)
 - [Unboxing: 8BitDo Ultimate 3-mode Controller for Xbox | 8BitDo| Black](https://www.youtube.com/watch?v=PJhgwu_6Ep4)
 - [Unboxing: Transcend StoreJet 25H4 | Transcend | Purple](https://www.youtube.com/watch?v=9BoVzDeLNII)
 - [🔥 Desk Setup Tour 2024 🔥](https://www.youtube.com/watch?v=eHbmuBw7dLA)
 - [Unboxing: Edifier MR4 Studio Speaker | Edifier | Black](https://www.youtube.com/watch?v=uOzW2COcUkc)
-- [Unboxing: Huawei Band 9 | Black](https://www.youtube.com/watch?v=vOUnsbhSgL4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
