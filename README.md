@@ -6,7 +6,7 @@
 ### I'm a WordPress Developer, Virtual Assistant and Web Assistant
 
 - 🌱 I’m currently learning everything.
-- 👨‍💻 Working as WordPress CMS Support/Manager & IT Support.
+- 👨‍💻 Working as a WordPress CMS Support/Manager & IT Support.
 - 🎮 I'm a content creator on Youtube posting random gameplay walkthrough and tech unboxing.
 - 📝 I write everything under the cloud for my WordPress blog.
 - ⚡ I'm one of the awesome volunteer of GDG-CDO and DEVCON-CDO in Mindanao.
