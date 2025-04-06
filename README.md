@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding gaps on gTile: Cinnamon Extension](https://thetechwolfcave.wordpress.com/2025/04/06/adding-gaps-on-gtile-cinnamon-extension/)
 - [Making Windows Better – For Me](https://thetechwolfcave.wordpress.com/2025/02/05/making-windows-better-for-me/)
 - [Staying Safe Online](https://thetechwolfcave.wordpress.com/2023/09/01/staying-safe-online/)
 - [The Future Of Work](https://thetechwolfcave.wordpress.com/2023/09/01/the-future-of-work/)
 - [Debloat Windows 11](https://thetechwolfcave.wordpress.com/2023/02/28/debloat-windows-11/)
-- [I Fix My Own Tech Problems, Sort Of](https://thetechwolfcave.wordpress.com/2023/02/23/i-fix-my-own-tech-problems-sort-of/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thetechwolfcave.wordpress.com/)
