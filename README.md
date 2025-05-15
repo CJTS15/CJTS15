@@ -46,11 +46,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ricing My Mint](https://thetechwolfcave.wordpress.com/2025/05/15/ricing-my-mint/)
 - [Adding gaps on gTile: Cinnamon Extension](https://thetechwolfcave.wordpress.com/2025/04/06/adding-gaps-on-gtile-cinnamon-extension/)
 - [Making Windows Better – For Me](https://thetechwolfcave.wordpress.com/2025/02/05/making-windows-better-for-me/)
 - [Staying Safe Online](https://thetechwolfcave.wordpress.com/2023/09/01/staying-safe-online/)
 - [The Future Of Work](https://thetechwolfcave.wordpress.com/2023/09/01/the-future-of-work/)
-- [Debloat Windows 11](https://thetechwolfcave.wordpress.com/2023/02/28/debloat-windows-11/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thetechwolfcave.wordpress.com/)
