@@ -53,11 +53,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I Have A New Hobby](https://thetechwolfcave.wordpress.com/2022/06/17/i-have-a-new-hobby-but-its-not-that-easy/)
-- [Building My First PC](https://thetechwolfcave.wordpress.com/2022/05/28/finally/)
-- [What’s Inside My Browser](https://thetechwolfcave.wordpress.com/2022/05/02/whats-inside-my-browser/)
-- [Social Media Sizes Cheat Sheet](https://thetechwolfcave.wordpress.com/2022/04/25/social-media-sizes-cheat-sheet/)
-- [Debloat Windows 10](https://thetechwolfcave.wordpress.com/2022/01/02/debloat-windows-10/)
+- [Project: DMD](https://thetechwolfcave.wordpress.com/2025/10/20/project-dmd/)
+- [Ricing My Mint](https://thetechwolfcave.wordpress.com/2025/05/15/ricing-my-mint/)
+- [Adding gaps on gTile: Cinnamon Extension](https://thetechwolfcave.wordpress.com/2025/04/06/adding-gaps-on-gtile-cinnamon-extension/)
+- [Making Windows Better – For Me](https://thetechwolfcave.wordpress.com/2025/02/05/making-windows-better-for-me/)
+- [Staying Safe Online](https://thetechwolfcave.wordpress.com/2023/09/01/staying-safe-online/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thetechwolfcave.wordpress.com/)
