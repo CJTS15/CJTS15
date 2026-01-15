@@ -39,11 +39,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Child of Light PC Gameplay Walkthrough Part 4 - Magna](https://www.youtube.com/watch?v=Q_4RQtRjxZY)
-- [Child of Light PC Gameplay Walkthrough Part 3 - Bolmus Inferno](https://www.youtube.com/watch?v=OcrJEoFlHLM)
-- [Child of Light PC Gameplay Walkthrough Part 2 - The Deep Dark Well](https://www.youtube.com/watch?v=Wus97pIv9A0)
-- [Child of Light PC Gameplay Walkthrough Part 1 - The Girl and the Firefly](https://www.youtube.com/watch?v=MMlwgX5ufmM)
-- [Chillin&#39; With My Keyboard #shorts](https://www.youtube.com/watch?v=_A2gE2qi_i0)
+- [Unboxing: VXE R1 Pro Max Mouse | VXE R1 Series | Black](https://www.youtube.com/watch?v=a_8F5PzsBNs)
+- [Unboxing: 8BitDo Ultimate 3-mode Controller for Xbox | 8BitDo| Black](https://www.youtube.com/watch?v=PJhgwu_6Ep4)
+- [Unboxing: Transcend StoreJet 25H4 | Transcend | Purple](https://www.youtube.com/watch?v=9BoVzDeLNII)
+- [🔥 Desk Setup Tour 2024 🔥](https://www.youtube.com/shorts/eHbmuBw7dLA)
+- [Unboxing: Edifier MR4 Studio Speaker | Edifier | Black](https://www.youtube.com/watch?v=uOzW2COcUkc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCO0VebhOX9eKVVYa1_PXnFg)
