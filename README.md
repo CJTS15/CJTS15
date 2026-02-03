@@ -53,11 +53,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ricing My Fedora](https://thetechwolfcave.wordpress.com/2026/02/03/ricing-my-fedora/)
 - [Enable Fingerprint Login on ThinkPad E14 Gen 5 &lpar;Fedora Linux&rpar; — Step-by-Step Guide](https://thetechwolfcave.wordpress.com/2026/02/03/enable-fingerprint-login-on-thinkpad-e14-gen-5-fedora-linux-step-by-step-guide/)
 - [Project: DMD](https://thetechwolfcave.wordpress.com/2025/10/20/project-dmd/)
 - [Ricing My Mint](https://thetechwolfcave.wordpress.com/2025/05/15/ricing-my-mint/)
 - [Adding gaps on gTile: Cinnamon Extension](https://thetechwolfcave.wordpress.com/2025/04/06/adding-gaps-on-gtile-cinnamon-extension/)
-- [Making Windows Better – For Me](https://thetechwolfcave.wordpress.com/2025/02/05/making-windows-better-for-me/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thetechwolfcave.wordpress.com/)
